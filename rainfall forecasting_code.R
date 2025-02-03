@@ -1,6 +1,6 @@
 # Set the working directory 
 # Replace the path below with the directory where your shapefile data is stored
-setwd("C:/Users/LENOVO/Downloads/Code_and_Data_for_FORECASTING_RAINFALL_TO_ANTICIPATE_CROP_FAILURE_USING_ARIMA_AND_STARIMA__A_CASE_STUDY_OF_JAWA_TIMUR__INDONE_442840142/Data")
+setwd("path_file")
 
 # Install necessary R packages 
 install.packages("sp")        # For spatial data structures and methods
